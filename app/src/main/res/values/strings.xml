@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currency_array">
+        <item>$ to £</item>
+        <item>£ to $</item>
+    </string-array>
+</resources>
